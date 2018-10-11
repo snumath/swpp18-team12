@@ -105,3 +105,9 @@ If pr includes a modification of our secret file, you should label it `update se
 
 At least 2 reviewers are required for pr to merge!
 
+
+
+## open source Angular projects
+
+#### [click](https://medium.mybridge.co/18-amazing-open-source-angular-projects-dd9e81d921ee)
+
